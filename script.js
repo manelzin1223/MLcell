@@ -1,11 +1,11 @@
 (function() {
   "use strict";
 
-  // Número de telefone principal (substitua pelo seu - atualmente: 999999999)
-  const telefoneBase = "999999999";
+  // Número de telefone principal (substitua pelo seu - atualmente: 31998312092)
+  const telefoneBase = "31998312092";
   
   /**
-   * Formata o número de telefone para exibição no padrão (99) 99999-9999
+   * Formata o número de telefone para exibição no padrão (31) 99831-2092
    * @param {string} numero - Número puro sem formatação
    * @returns {string} Número formatado
    */
